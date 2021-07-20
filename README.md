@@ -3,7 +3,7 @@
 Ansible playbook that returns manufacturer associated with MAC address
 
 
-#How to use
+# How to use
 
 ## Requirements 
 - Ansible
